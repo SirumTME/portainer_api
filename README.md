@@ -17,9 +17,9 @@ Python 2.7 and 3.4+
 If the python package is hosted on Github, you can install directly from Github
 
 ```sh
-pip install git+https://github.com/SirumTME/portainer_ce_api.git
+pip install portainer-ce-api
 ```
-(you may need to run `pip` with root permission: `sudo pip install git+https://github.com/SirumTME/portainer_ce_api.git`)
+(you may need to run `pip` with root permission: `sudo pip install portainer-ce-api`)
 
 Then import the package:
 ```python
